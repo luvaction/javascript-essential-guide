@@ -8,7 +8,9 @@
 - [4. Math](#math)
 - [5. global](#global)
 
-## **string** ( [go to Index](#index) )
+## **string**
+
+[go to Index](#index)
 
 ### `charAt()` 문자열에서 특정 위치의 문자를 반환
 
@@ -96,7 +98,9 @@ let str = "Hello, World!";
 console.log("    Hello, World!    ".trim()); // 'Hello, World!'
 ```
 
-## **array** ( [go to Index](#index) )
+## **array**
+
+[go to Index](#index)
 
 ### `concat()` 두 개 이상의 배열을 연결하고 결과를 새 배열로 반환
 
@@ -186,7 +190,9 @@ console.log(arr.unshift(0)); // 5
 - `splice()`: 배열에서 요소를 추가/삭제
 - `reduce()`: 배열 요소의 각각에 대해 함수를 실행하고 단일 출력 값을 생성
 
-## **number** ( [go to Index](#index) )
+## **number**
+
+[go to Index](#index)
 
 ### `isFinite()` 값이 유한한 숫자인지 확인
 
@@ -237,7 +243,9 @@ let num = 123.456;
 console.log(num.toString()); // '123.456'
 ```
 
-## **math** ( [go to Index](#index) )
+## **math**
+
+[go to Index](#index)
 
 ### `abs()` 숫자의 절대값을 반환
 
@@ -295,7 +303,9 @@ let num = 123.456;
 console.log(Math.sqrt(9)); // 3
 ```
 
-## **global** ( [go to Index](#index) )
+## **global**
+
+[go to Index](#index)
 
 ### `decodeURI()` URI를 전체 URI로 디코드
 
