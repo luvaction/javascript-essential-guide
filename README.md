@@ -2,14 +2,6 @@
 
 This project serves as a comprehensive guide to JavaScript, covering essential concepts, syntax, and built-in methods. Whether you are a beginner looking to learn JavaScript or an experienced developer seeking to enhance your skills, this guide provides a complete resource with detailed explanations and practical examples.
 
-## Features
-
-- Detailed explanations of JavaScript syntax and core concepts
-- In-depth coverage of common built-in methods and their usage
-- Sample code snippets for better understanding and practical implementation
-- Organized into sections for easy navigation and reference
-- Beginner-friendly approach with clear explanations
-
 ## Contents
 
 ### javascript
